@@ -1,0 +1,22 @@
+{
+	"name":				"Proton",
+	"version":			"0.1.0.0000",
+	"description":		"Small utility-store",
+	"main":				"index.html",
+	"node-remote":		"http://proton/",
+	"window": {
+		"title":		"Proton",
+		"icon":			"icon.png",
+		"position":		"center",
+		"show":			true,
+		"width":		900,
+		"height":		600,
+		"resizable":	true,
+		"frame":		true,
+		"toolbar":		false,
+		"transparent":	false
+	},
+	"webkit": {
+		"plugin":		true
+	}
+}
