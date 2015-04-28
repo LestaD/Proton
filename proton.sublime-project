@@ -3,7 +3,7 @@
 	[
 		{
 			"name": "Proton",
-			"path": "."
+			"path": "./app"
 		}
 	]
 }
