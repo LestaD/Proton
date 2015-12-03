@@ -1,4 +1,4 @@
-# Proton
+# Proton.app
 Small utility store for Mac, Linux, Windows
 
 
